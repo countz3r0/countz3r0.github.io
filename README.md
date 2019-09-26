@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CountZ3r0's Page
 
 You can use the [editor on GitHub](https://github.com/countz3r0/countz3r0.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
