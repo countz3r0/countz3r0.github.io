@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ### Support your local hackers!
-[LINK](https://dc539.github.io/)
+[DC539](https://dc539.github.io/)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
