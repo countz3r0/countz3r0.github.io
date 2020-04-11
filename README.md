@@ -5,5 +5,7 @@
 
 ### Support your local hackers and security nerds!
 [DC539](https://dc539.github.io/)
+
 [TULSEC](https://www.tulsec.com/)
+
 [Discord for TULSEC and DC539](https://discord.gg/QpTv7PD)
