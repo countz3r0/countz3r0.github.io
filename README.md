@@ -3,7 +3,7 @@
 ### Find me on Twitter
 [@wavydninja](https://twitter.com/wavydninja)
 
-### Support your local hackers and security nerds!
+### Support your local hackers :smiling_imp: and security nerds :nerd_face:!
 [DC539](https://dc539.github.io/)
 
 [TULSEC](https://www.tulsec.com/)
