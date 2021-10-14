@@ -3,7 +3,7 @@
 ### Find me on Twitter
 [@wavydninja](https://twitter.com/wavydninja)
 
-### Blue Team Village volunteer / Incident Response Station Team Lead
+### Blue Team Village volunteer / Project Obsidian - Incident Response Station
 [BTV](https://www.blueteamvillage.org/)
 
 ### Support your local hackers and security nerds!
