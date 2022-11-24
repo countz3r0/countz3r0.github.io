@@ -3,6 +3,9 @@
 ### Find me on Twitter
 [@wavydninja](https://twitter.com/wavydninja)
 
+### Find me on Mastodon
+[@wavydninja](https://infosec.exchange/@wavydninja)
+
 ### Blue Team Village volunteer / Project Obsidian - Incident Response Station
 [BTV](https://www.blueteamvillage.org/)
 
